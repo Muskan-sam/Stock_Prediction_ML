@@ -8,3 +8,4 @@ yfinance
 prophet
 numpy
 pandas
+scikit-learn
