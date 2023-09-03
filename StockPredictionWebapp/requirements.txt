@@ -1,6 +1,6 @@
 ###### Requirements without Version Specifiers ######
 
-numpy==1.25.2
+numpy>=1.19.2,<=1.24.3
 pandas==2.1.0
 plotly==5.16.1
 prophet==1.1.4
