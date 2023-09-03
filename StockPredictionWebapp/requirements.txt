@@ -1,10 +1,10 @@
 ###### Requirements without Version Specifiers ######
-streamlit
-pyplot
-tensorflow
-datetime
-yfinance
-prophet
-numpy
-pandas
-scikit-learn
+streamlit==0.89.0
+matplotlib==3.4.3
+tensorflow==2.6.0
+datetime==4.3
+yfinance==0.1.70
+prophet==1.0.1
+numpy==1.21.2
+pandas==1.3.3
+scikit-learn==0.24.2
