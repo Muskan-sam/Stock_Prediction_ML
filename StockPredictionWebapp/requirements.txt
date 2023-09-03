@@ -1,6 +1,5 @@
 ###### Requirements without Version Specifiers ######
 streamlit
-matplotlib
 pyplot
 tensorflow
 datetime
