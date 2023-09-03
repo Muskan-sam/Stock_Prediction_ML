@@ -1,6 +1,9 @@
 # Stock Prediction Webapp 
 I've developed a stock prediction web application that serves as a platform for comparing the performance of two distinct models: the LSTM neural network and Meta Prophet. This app allows users to input stock data and observe how each model predicts future stock prices. By doing so, it helps highlight the differences in predictive capabilities and assists users in making informed decisions based on their preferred model's outputs. Whether you're inclined towards the intricate patterns captured by LSTM or the interpretability offered by Meta Prophet, this web application provides a practical means to assess their respective strengths and weaknesses in the context of stock price prediction.
 
+you can check out the application [here](https://stock-prediction-ms.streamlit.app/)
+
+
 ## **Meta Prophet:**
 Prophet is a forecasting tool developed by Facebook that is designed for time series data with strong seasonal patterns and holiday effects. It's particularly good at handling data with multiple seasonal components.
 
